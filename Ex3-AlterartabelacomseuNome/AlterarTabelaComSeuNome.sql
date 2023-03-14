@@ -1,4 +1,5 @@
 USE Venda
-ALTER TABLE Venda 
+
+ALTER TABLE Nome 
 	ADD UF VARCHAR(2) NULL,
 		Telefone VARCHAR(11) NOT NULL;
